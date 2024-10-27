@@ -1,7 +1,8 @@
 
   
 .full-height {
-    background: rgba(26, 26, 26, 0.548);
+    /* background: rgba(26, 26, 26, 0.548); */
+    background: #DCCDE4;
     background-attachment: fixed;
     max-height: 100vh;
     height: 100vh;
@@ -16,7 +17,7 @@ table{
     
 }
 .heading-text{
-    color: white;
+    color: #423c45e4;
     font-size: 42px;
     font-weight: 700;
     line-height: 63px;
@@ -26,7 +27,8 @@ table{
 }
 
 .sub-text2{
-    color: rgba(255, 255, 255, 0.5);
+    /* color: rgba(255, 255, 255, 0.5); */
+    color: #423c45e4;
     font-size: 17px;
     line-height: 27px;
     font-weight: 400;
@@ -42,7 +44,7 @@ table{
 
 
 .edoc-logo{
-    color: white;
+    color: #423c45e4;
     font-weight: bolder;
     font-size: 20px;
     padding-left: 20px;
@@ -50,14 +52,14 @@ table{
 }
 
 .edoc-logo-sub{
-    color: rgba(255, 255, 255, 0.733);
+    color: rgba(0, 0, 0, 0.733);
     font-size: 12px;
 
 }
 
 
 .nav-item{
-    color: rgba(255, 255, 255, 0.671);
+    color: rgba(0, 0, 0, 0.671);
     text-align: center;
     font-size: 15px;
     font-weight: 500;
@@ -65,7 +67,7 @@ table{
 }
 
 .nav-item:hover{
-    color: #f0f0f0;
+    color: #1b1a1a;
 
 }
 
